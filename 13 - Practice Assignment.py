@@ -37,12 +37,12 @@ answers = [
 
 for i in range(len(cases)):
     current_case = cases[i]
-    current_answers = answers[i]
-
-    if (current_answers == even_numbers(current_case)):
+    current_answer = answers[i]
+    user_answer = even_numbers(current_case)
+    if (current_answer == user_answer):
         print("Test",i+1,"PASSED.")
     else:
-        print("Test",i+1,"FAILED. Case:",current_case)
+        print("Test",i+1,"FAILED. Case:",current_case,"Target Answer:",current_answer,"Your answer:",user_answer)
 
     
 
