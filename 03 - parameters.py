@@ -17,7 +17,7 @@ def hello(name):
 
 # An argument is the value that is sent to the function when you call it.
 
-hello("Dan")
+hello("Dan", "Sarah")
 
 # in this case, the argument is "Dan"
 
@@ -26,7 +26,7 @@ hello("Dan")
 # Change the name "Dan" to something else. It should still work.
 
 # BREAK IT:
-# What happens if you remove the name entirely and try to call hello() without anything inside?
-# What happens if you put multiple arguments in, like hello("Dan","Sarah")?
+# What happens if you remove the name entirely and try to call hello() without anything inside? Error
+# What happens if you put multiple arguments in, like hello("Dan","Sarah")? 
 # Why did the errors occur?
 

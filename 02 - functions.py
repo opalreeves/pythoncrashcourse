@@ -2,7 +2,7 @@
 
 
 # A function is defined in python with "def" in front, then the name of the function and an open and closed parenthesis and a colon
-
+hello_world()
 def hello_world():
     # In Python, indentation is very important.
     # print is indented to indicate it is inside of the hello_world() function
@@ -22,4 +22,6 @@ hello_world()
 
 # BREAK IT:
 # What happens if you move the hello_world() call above the definition of hello_world?
+#It comes up with NameError: name 'hello_world' is not defined
 # Test and see. Why do you think the error occurs?
+#Because the I wrote the function before it was defined. 

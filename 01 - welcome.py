@@ -24,7 +24,7 @@ print("Hello World")
 # I want you to break the code and see what kind of errors occur.
 # Try writing Hello World in the print() without the quotes, saving, and running what happens?
 # Why do you think the error occurs?
-
+print(Hello World)
 
 # AS YOUR READ THROUGH EACH SCRIPT, WHEN YOU FINISH, BE SURE TO RUN THE SCRIPT AND READ THE OUTPUT TO SEE WHAT IS GOING ON.
 
