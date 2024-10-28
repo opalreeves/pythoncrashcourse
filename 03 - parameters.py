@@ -26,7 +26,7 @@ hello("Dan", "Sarah")
 # Change the name "Dan" to something else. It should still work.
 
 # BREAK IT:
-# What happens if you remove the name entirely and try to call hello() without anything inside? Error
-# What happens if you put multiple arguments in, like hello("Dan","Sarah")? 
+# What happens if you remove the name entirely and try to call hello() without anything inside? An Error Occurs
+# What happens if you put multiple arguments in, like hello("Dan","Sarah")? the function can only support one argument, but two names in the list is two arguments
 # Why did the errors occur?
 

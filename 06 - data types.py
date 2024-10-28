@@ -47,9 +47,11 @@ print("The value of string4 is:", string4)
 # print("Hello " * 10)
 # try it out! It actually works!
 
-
+num6 = 4
+num7 = 0
+print(num6/num7)
 # BREAK IT:
-# What happens if you try to subtract a string from a string?
-# What happens if you multiply a string by a string?
-# What happens if you divide an integer by zero?
-# Why do these errors occur?
+# What happens if you try to subtract a string from a string? An error occurs
+# What happens if you multiply a string by a string? Error because strings aren't integers
+# What happens if you divide an integer by zero? Error! Division by zero
+# Why do these errors occur? 
