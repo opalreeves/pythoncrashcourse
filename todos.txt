@@ -1,0 +1,3 @@
+get food
+do laundry
+text taja
